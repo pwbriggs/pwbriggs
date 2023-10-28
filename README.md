@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pwbriggs
-- 👀 I’m interested in computer security, web applications, and getting the most out of old devices.
+- 👀 I’m interested in computer security, web applications, and getting the most out of old devices by writing clever, low-profile software.
 - 🌱 I’m currently learning how to write more secure software: https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/.
 
 <p>
