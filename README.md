@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer security, cryptography, web applications, and getting the most out of old devices by writing cleverly efficient software.
 - 🌱 I’m currently learning how to write more secure software: https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/.
 
-Some things I'm familiar with (_click an image to learn more_):
+Some things I'm familiar with (_click a logo to learn more_):
 
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5">
