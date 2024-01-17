@@ -29,6 +29,9 @@ Some things I'm familiar with (_click a logo to learn more_):
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="15%" height="15%" alt="React" />
     </a>
+    <a href="https://remix.run/" target="_blank" rel="noreferrer" title="Remix">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="15%" height="15%" alt="Remix" />
+    </a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="15%" height="15%" alt="Material UI" />
     </a>
