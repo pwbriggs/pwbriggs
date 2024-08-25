@@ -1,6 +1,9 @@
-- 👋 Hey, I’m @pwbriggs
-- 👀 I’m interested in computer security, cryptography, web applications, and getting the most out of old devices by writing cleverly efficient software.
-- 🌱 I’m currently learning how to write more secure software: https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/.
+- 👋 Hey, I'm @pwbriggs
+- 👀 I'm interested in computer security, cryptography, web applications, and getting the most out of old devices by writing cleverly efficient software.
+- 👨‍💻 I build stuff at my company, @magnusmusmeus.
+- 🌱 I'm currently learning how to write more secure software: [MIT OCW 6.858, Computer Systems Security][6858]
+
+[6858]: https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/
 
 Some things I'm familiar with (_click a logo to learn more_):
 
